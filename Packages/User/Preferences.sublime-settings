@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"spacegray_tabs_font_large": true,
+	"spacegray_tabs_large": true,
+	"tab_size": 4,
+	"theme": "Spacegray Eighties.sublime-theme",
+	"word_wrap": true,
+	"wrap_width": 80
+}
